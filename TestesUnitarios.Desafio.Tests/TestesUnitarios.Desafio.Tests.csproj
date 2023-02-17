@@ -20,7 +20,7 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
   </ItemGroup>
-
+  
   <ItemGroup>
     <ProjectReference Include="..\TestesUnitarios.Desafio.Console\TestesUnitarios.Desafio.Console.csproj" />
   </ItemGroup>
